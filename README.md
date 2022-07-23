@@ -10,6 +10,7 @@ Igualmente puede utilizarse de forma manual, ajustando el azimuth y la elevation
 Mi agradecimiento a los siguientes magos de la programación:
 
 lib_deps = 
+
 	esphome/AsyncTCP-esphome@^1.2.2
 	
 	ottowinter/ESPAsyncWebServer-esphome@^2.1.0
