@@ -27,7 +27,7 @@ En breve ire subiendo toda la información referente a materiales utilizados, es
 He utilizado la potencia de los 2 nucleos del ESP32 para optimizar el funcionamiento.
 
 Vista de la página web servida desde el ESP32:
-![image](https://user-images.githubusercontent.com/48222471/180615162-9a4f800e-9726-48d6-860a-1b2051e98ca3.png)
+![image](https://user-images.githubusercontent.com/48222471/180615329-6ca98c3f-5c46-4797-aa4f-1cd8161137aa.png)
 
 
 
