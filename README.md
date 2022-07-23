@@ -1,11 +1,11 @@
 # ROTOR_PLUS
 Rotor con azimuth y elevation basado en ESP32 
 
-Este proyecto esta diseñado para la recepción de nanosatelites y dentro del proyecto tinygs.com
+Este proyecto esta diseñado para la recepción de nanosatelites del proyecto tinygs.com
 
 Este proyecto es una mejora del anterior rotor que solo contaba con giro de azimuth.
 
-Diseñado para capturar telemetría de la familia de satelites FossaSat.
+Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat.
 
 La antena que he fabricado esta optimizada para la frecuencia de estos satelites
 
@@ -21,4 +21,5 @@ Vista una vez instalado y con la Tinygs en su interior:  LNA + TTGO
 
 ![image](https://user-images.githubusercontent.com/48222471/180614660-05b1a8ca-cf8d-4223-9e10-0ed8ba0b861a.png)
 ![image](https://user-images.githubusercontent.com/48222471/180614744-c5e2242c-3ab8-4e87-be8f-4dc12a05e20e.png)
+
 
