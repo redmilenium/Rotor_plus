@@ -49,11 +49,12 @@ Vista una vez instalado y con la Tinygs en su interior:  LNA + TTGO
 
 En la versión en funcionamiento he protegido los componentes interiores de la perjudicial luz solar.
 
-En breve ire subiendo toda la información referente a materiales utilizados, esquema electrico y soft.
 He utilizado la potencia de los 2 nucleos del ESP32 para optimizar el funcionamiento.
 
 Vista de la página web servida desde el ESP32:
 ![image](https://user-images.githubusercontent.com/48222471/180615329-6ca98c3f-5c46-4797-aa4f-1cd8161137aa.png)
+
+En breve ire subiendo toda la información referente a materiales utilizados, esquema electrico y soft.
 
 
 
