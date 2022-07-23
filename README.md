@@ -19,7 +19,8 @@ Vista del hardware:
 
 Vista una vez instalado y con la Tinygs en su interior:  LNA + TTGO
 
-![image](https://user-images.githubusercontent.com/48222471/180614660-05b1a8ca-cf8d-4223-9e10-0ed8ba0b861a.png)
 ![image](https://user-images.githubusercontent.com/48222471/180614744-c5e2242c-3ab8-4e87-be8f-4dc12a05e20e.png)
+
+En la versión en funcionamiento he protegido los componentes interiores de la perjudicial luz solar.
 
 
