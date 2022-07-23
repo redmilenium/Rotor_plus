@@ -11,16 +11,25 @@ Mi agradecimiento a los siguientes magos de la programación:
 
 lib_deps = 
 	esphome/AsyncTCP-esphome@^1.2.2
+	
 	ottowinter/ESPAsyncWebServer-esphome@^2.1.0
+	
 	arduino-libraries/NTPClient@^3.2.1
+	
 	paulstoffregen/Time@^1.6.1
+	
 	jchristensen/Timezone@^1.2.4
+	
 	hopperpop/Sgp4@^1.0.3
+	
 	waspinator/AccelStepper@^1.61
+	
 	me-no-dev/ESP Async WebServer@^1.2.3.
+	
   
   Asi como a:
-  https://github.com/G4lile0/tinyGS  
+  
+              https://github.com/G4lile0/tinyGS  
   
 
 Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat: la antena que he fabricado esta optimizada para la frecuencia de estos satelites.
