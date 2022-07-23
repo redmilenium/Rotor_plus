@@ -12,3 +12,8 @@ La antena que he fabricado esta optimizada para la frecuencia de estos satelites
 ![image](https://user-images.githubusercontent.com/48222471/180614173-b6e6713a-deb8-4f4f-9173-88964b037b58.png)
 
 Los resultados han mejorado notablemente con respecto al rotor anterior (solo azimuth).
+
+Vista del hardware:
+
+![image](https://user-images.githubusercontent.com/48222471/180614595-1c1f45ef-7f25-4ad3-9da9-7140ff463c83.png)
+
