@@ -7,9 +7,7 @@ Este proyecto es una mejora del anterior rotor que solo contaba con giro de azim
 
 Igualmente puede utilizarse de forma manual, ajustando el azimuth y la elevation a los valores que deseemos, y tambien puede trabajar de forma automatica poniendose a las ordenes de la tinyGS, que le envia el satelite a seguir, y el rotor busca en Celestrak los TLE´s actualizados para obtener la posición del satelite en tiempo real.
 
-Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat.
-
-La antena que he fabricado esta optimizada para la frecuencia de estos satelites
+Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat: la antena que he fabricado esta optimizada para la frecuencia de estos satelites.
 
 ![image](https://user-images.githubusercontent.com/48222471/180614173-b6e6713a-deb8-4f4f-9173-88964b037b58.png)
 
