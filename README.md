@@ -1,7 +1,7 @@
 # ROTOR_PLUS
 Rotor con azimuth y elevation basado en ESP32 
 
-Este proyecto esta diseñado para la recepción de nanosatelites del proyecto tinygs.com
+Este proyecto esta diseñado para la recepción de nanosatelites del proyecto tinygs.com  
 
 Este proyecto es una mejora del anterior rotor que solo contaba con giro de azimuth.
 
