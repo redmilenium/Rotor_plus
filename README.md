@@ -17,3 +17,6 @@ Vista del hardware:
 
 ![image](https://user-images.githubusercontent.com/48222471/180614595-1c1f45ef-7f25-4ad3-9da9-7140ff463c83.png)
 
+Vista una vez instalado y con la Tinygs en su interior:  LNA + TTGO
+
+![image](https://user-images.githubusercontent.com/48222471/180614660-05b1a8ca-cf8d-4223-9e10-0ed8ba0b861a.png)
