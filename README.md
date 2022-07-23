@@ -5,6 +5,8 @@ Este proyecto esta diseñado para la recepción de nanosatelites del proyecto ti
 
 Este proyecto es una mejora del anterior rotor que solo contaba con giro de azimuth.
 
+Igualmente puede utilizarse de forma manual, ajustando el azimuth y la elevation a los valores que deseemos, y tambien puede trabajar de forma automatica poniendose a las ordenes de la tinyGS, que le envia el satelite a seguir, y el rotor busca en Celestrak los TLE´s actualizados para obtener la posición del satelite en tiempo real.
+
 Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat.
 
 La antena que he fabricado esta optimizada para la frecuencia de estos satelites
@@ -25,5 +27,9 @@ En la versión en funcionamiento he protegido los componentes interiores de la p
 
 En breve ire subiendo toda la información referente a materiales utilizados, esquema electrico y soft.
 He utilizado la potencia de los 2 nucleos del ESP32 para optimizar el funcionamiento.
+
+Vista de la página web servida desde el ESP32:
+![image](https://user-images.githubusercontent.com/48222471/180615162-9a4f800e-9726-48d6-860a-1b2051e98ca3.png)
+
 
 
