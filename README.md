@@ -54,7 +54,15 @@ He utilizado la potencia de los 2 nucleos del ESP32 para optimizar el funcionami
 Vista de la página web servida desde el ESP32:
 ![image](https://user-images.githubusercontent.com/48222471/180615329-6ca98c3f-5c46-4797-aa4f-1cd8161137aa.png)
 
-En breve ire subiendo toda la información referente a materiales utilizados, esquema electrico y soft.
+Esquema:
+![image](https://user-images.githubusercontent.com/48222471/180657120-4b9f4182-c0c6-4d5d-bc0d-1f658a040fc2.png)
+
+Vista del detector de cero de elevation:
+![image](https://user-images.githubusercontent.com/48222471/180657142-6ab82634-b866-4d89-85f9-b60fd9836910.png)
+
+
+
+En breve ire subiendo toda la información referente a materiales utilizados, soft.
 
 
 
