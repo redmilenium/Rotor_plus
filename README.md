@@ -71,7 +71,7 @@ Entre los 2 soportes puente, hay que meter el sistema de imanes que activará el
 
 ![image](https://user-images.githubusercontent.com/48222471/184388746-12f8c61a-37ae-46ea-bbf2-d1885753e1c6.png)
 
-Como en un principio, estaba utilizando detector hall bipolares (cuando se les expone a un polo Sur se activa y hasta que no se le expone a un polo Norte no se desactiva, el el sistema de imanes van 3 filas de imanes:  norte - sur  - norte:
+Como en un principio, estaba utilizando detector hall bipolares (cuando se les expone a un polo Sur se activan y hasta que no se le expone a un polo Norte no se desactivan, el el sistema de imanes van 3 filas de imanes:  norte - sur  - norte (cuando llega el norte se desactiva y cuando llega el sur se activa):
 
 ![image](https://user-images.githubusercontent.com/48222471/184389039-ed0e3010-747f-4081-a10d-db2c2ae1073b.png)
 
