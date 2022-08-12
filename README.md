@@ -62,12 +62,12 @@ Vista del detector de cero de elevation:
 
 CONSTRUCCION
 
-La columna vertebral del sistema la forma una chapa de 4 mm. de espesor y de 210 mm. de ancho x 335 mm de alto, 2 SOPORTES PUENTE UCP 207 ISB y un mastil de los que se utilizan para instalar antena de 35 mm. de diametro.
+La columna vertebral del sistema la forma una chapa de 4 mm. de espesor y de 210 mm. de ancho x 335 mm de alto, 2 SOPORTES PUENTE UCP 207 ISB y un mastil de los que se utilizan para instalar antenas de TV de 35 mm. de diametro.
 
 ![image](https://user-images.githubusercontent.com/48222471/184387880-ce34af6a-313a-44b5-a5bb-c44805ffdab8.png)
 
 Dado que el mastil es de 35 mm. de diametro y el diametro interior de los soportes puente, tambien es de 35 mm. es necesario hacer un corte longitudinal con una dremel en los primeros 150 mm. del mastil. De esta manera y con la ayuda del martillo de Thor, es posible meter el mastil en su sitio.
-Entre los 2 soportes puente, hay que meter el sistema de imanes que activará el detector hall.
+Entre los 2 soportes puente, hay que meter el sistema de imanes que activará el detector hall del azimuth.
 
 ![image](https://user-images.githubusercontent.com/48222471/184388746-12f8c61a-37ae-46ea-bbf2-d1885753e1c6.png)
 
