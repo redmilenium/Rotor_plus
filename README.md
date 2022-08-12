@@ -61,12 +61,18 @@ Vista del detector de cero de elevation:
 ![image](https://user-images.githubusercontent.com/48222471/180657142-6ab82634-b866-4d89-85f9-b60fd9836910.png)
 
 CONSTRUCCION
+
 La columna vertebral del sistema la forma una chapa de 4 mm. de espesor y de 210 mm. de ancho x 335 mm de alto, 2 SOPORTES PUENTE UCP 207 ISB y un mastil de los que se utilizan para instalar antena de 35 mm. de diametro.
+
 ![image](https://user-images.githubusercontent.com/48222471/184387880-ce34af6a-313a-44b5-a5bb-c44805ffdab8.png)
+
 Dado que el mastil es de 35 mm. de diametro y el diametro interior de los soportes puente, tambien es de 35 mm. es necesario hacer un corte longitudinal con una dremel en los primeros 150 mm. del mastil. De esta manera y con la ayuda del martillo de Thor, es posible meter el mastil en su sitio.
 Entre los 2 soportes puente, hay que meter el sistema de imanes que activará el detector hall.
+
 ![image](https://user-images.githubusercontent.com/48222471/184388746-12f8c61a-37ae-46ea-bbf2-d1885753e1c6.png)
+
 Como en un principio, estaba utilizando detector hall bipolares (cuando se les expone a un polo Sur se activa y hasta que no se le expone a un polo Norte no se desacti va, el el sistema de imanes van 3 filas de imanes:  norte - sur  - norte:
+
 ![image](https://user-images.githubusercontent.com/48222471/184389039-ed0e3010-747f-4081-a10d-db2c2ae1073b.png)
 
 
