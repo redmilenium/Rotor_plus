@@ -75,6 +75,18 @@ Como en un principio, estaba utilizando detector hall bipolares (cuando se les e
 
 ![image](https://user-images.githubusercontent.com/48222471/184389039-ed0e3010-747f-4081-a10d-db2c2ae1073b.png)
 
+EJE AZIMUTH
+
+Compuesto por un nema 17 con Gearbox  relacion 50:1
+![image](https://user-images.githubusercontent.com/48222471/184946869-ffdb750c-8a7a-4a3b-9e8b-889a0e291979.png)
+Al eje del Gearbox he colocado un acoplador (8 mm.  - 10 mm.):
+![image](https://user-images.githubusercontent.com/48222471/184947100-25fa2059-077a-4ea2-84b7-06cd7b0832cc.png)
+
+La parte de 8 mm. va al Gearbox y la de 10 mm. a un eje de aluminio de 30 cm. de longitud y mediante una pieza hecha cen 3D al interior del mastil.
+Dado que el acoplador dispone de una parte elastica, se va a comportar como un cardan y eliminará las ligeras faltas de alineacion que pueda haber entre el Gearbox y el mastil que gira sobre los 2 soporte puente.
+
+
+
 
 En breve ire subiendo mas información referente a materiales utilizados, soft.
 
