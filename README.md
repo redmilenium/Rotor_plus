@@ -91,6 +91,7 @@ Dado que el acoplador dispone de una parte elastica, se va a comportar como un c
 
 
 
+
 En breve ire subiendo mas información referente a materiales utilizados, soft.
 
 
