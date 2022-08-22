@@ -63,6 +63,7 @@ Dado que no es posible soldar con estaño sobre aluminio, para poder conectar el
 
 ![image](https://user-images.githubusercontent.com/48222471/185979307-dac56215-aed4-45f2-b8ae-2dd314cbcd0b.png)
 
+![image](https://user-images.githubusercontent.com/48222471/185980989-77397cb9-303e-4a73-8eab-b3fcb06c6532.png)
 
 ![image](https://user-images.githubusercontent.com/48222471/180614173-b6e6713a-deb8-4f4f-9173-88964b037b58.png)
 
