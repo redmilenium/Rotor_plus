@@ -34,6 +34,19 @@ lib_deps =
   
 
 Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat: la antena que he fabricado esta optimizada para la frecuencia de estos satelites.
+ANTENA
+![image](https://user-images.githubusercontent.com/48222471/185977603-b3e7a397-408d-4257-92c9-11517492e8a6.png)
+![image](https://user-images.githubusercontent.com/48222471/185977788-27752fa6-0748-4944-8be5-6d296414baf5.png)
+
+Material para la fabricación de la antena:
+2 varillas aluminio de 4 mm. diametro y 1 m. de longitud
+1 tubo pvc 16 mm. de diametro (se usa en instalaciones electricas)
+3 piezas de impresión 3D
+
+Dado que no es posible soldar con estaño sobre aluminio, para poder conectar el cable coaxial que une la antena con la tinygs es necesario hacer las siguientes operaciones sobre los extremos del dipolo (para ello necesitaremos una Dremel):
+
+![image](https://user-images.githubusercontent.com/48222471/185979307-dac56215-aed4-45f2-b8ae-2dd314cbcd0b.png)
+
 
 ![image](https://user-images.githubusercontent.com/48222471/180614173-b6e6713a-deb8-4f4f-9173-88964b037b58.png)
 
