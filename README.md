@@ -65,13 +65,32 @@ Dado que no es posible soldar con estaño sobre aluminio, para poder conectar el
 
 5- Ahora ya podemos soldar el coaxial
 
-6- Proteger con silicona o pegamento caliente la uniones para que los elementos atmosfericos no puedan deterioralas.
+6- Proteger con silicona o pegamento caliente la uniones para que los elementos atmosfericos no puedan deteriorarlas.
 
 ![image](https://user-images.githubusercontent.com/48222471/185979307-dac56215-aed4-45f2-b8ae-2dd314cbcd0b.png)
 
 ![image](https://user-images.githubusercontent.com/48222471/185980989-77397cb9-303e-4a73-8eab-b3fcb06c6532.png)
 
 ![image](https://user-images.githubusercontent.com/48222471/180614173-b6e6713a-deb8-4f4f-9173-88964b037b58.png)
+
+Disposición elementos antena:
+
+![image](https://user-images.githubusercontent.com/48222471/185982072-12188788-cfc3-4abd-a865-5b477c18bafe.png)
+
+Medidas Reflector:
+
+![image](https://user-images.githubusercontent.com/48222471/185982310-df78e4de-eb9a-4be3-8283-060819106e71.png)
+
+Medidas Dipolo:
+
+![image](https://user-images.githubusercontent.com/48222471/185982504-a7aa444d-312b-4617-9848-759d65ced827.png)
+
+![image](https://user-images.githubusercontent.com/48222471/185982579-1c430b51-aa65-458e-89e7-031b1f2fa99e.png)
+
+Medidas director:
+
+![image](https://user-images.githubusercontent.com/48222471/185982764-51c40126-1148-49e7-bf62-8625f228ce32.png)
+
 
 Los resultados han mejorado notablemente con respecto al rotor anterior (solo azimuth).
 
