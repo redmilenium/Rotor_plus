@@ -43,6 +43,12 @@ El sistema deber estar situado en una posición con visibilidad despejada 360 gr
 
 Dado que vamos a disponer de rotor con autoseguimiento de los satelites, utilizaremos una antena direccional. En nuestro caso una Yagi-Uda.
 
+Esta en concreto esta diseñada para una frecuencia central de 401/402 Mhz (los satelites de FOSSA):
+
+![image](https://user-images.githubusercontent.com/48222471/185983632-36268137-db26-4f0e-ab2c-dc8956e0d7f3.png)
+
+![image](https://user-images.githubusercontent.com/48222471/185983736-d0efbd2e-206d-40a5-934b-82519f61df22.png)
+
 ![image](https://user-images.githubusercontent.com/48222471/185977603-b3e7a397-408d-4257-92c9-11517492e8a6.png)
 
 Material para la fabricación de la antena:
