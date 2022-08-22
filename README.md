@@ -37,6 +37,12 @@ Diseñado especificamente para capturar telemetría de la familia de satelites F
 
 ANTENA
 
+Es la parte mas importante de todo el sistema y la colocación de la misma.
+
+El sistema deber estar situado en una posición con visibilidad despejada 360 grados y con cobertura WIFI (necesaría para la TinyGS y para el rotor)
+
+Dado que vamos a disponer de rotor con autoseguimiento de los satelites, utilizaremos una antena direccional. En nuestro caso una Yagi-Uda.
+
 ![image](https://user-images.githubusercontent.com/48222471/185977603-b3e7a397-408d-4257-92c9-11517492e8a6.png)
 
 Material para la fabricación de la antena:
