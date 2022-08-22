@@ -32,18 +32,17 @@ lib_deps =
   
               https://github.com/G4lile0/tinyGS  
   
-
-Diseñado especificamente para capturar telemetría de la familia de satelites FossaSat: la antena que he fabricado esta optimizada para la frecuencia de estos satelites.
-
 ANTENA
 
 Es la parte mas importante de todo el sistema y la colocación de la misma.
 
+Diseñada especificamente para capturar telemetría de la familia de satelites FossaSat.
+
+En concreto está diseñada para una frecuencia central de 401/402 Mhz).
+
 El sistema deber estar situado en una posición con visibilidad despejada 360 grados y con cobertura WIFI (necesaría para la TinyGS y para el rotor)
 
 Dado que vamos a disponer de rotor con autoseguimiento de los satelites, utilizaremos una antena direccional. En nuestro caso una Yagi-Uda.
-
-Esta en concreto esta diseñada para una frecuencia central de 401/402 Mhz (los satelites de FOSSA):
 
 ![image](https://user-images.githubusercontent.com/48222471/185983736-d0efbd2e-206d-40a5-934b-82519f61df22.png)
 
