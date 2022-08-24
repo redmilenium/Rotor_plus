@@ -56,6 +56,8 @@ Material para la fabricación de la antena:
 
 - 3 piezas de impresión 3D
 
+![image](https://user-images.githubusercontent.com/48222471/186407441-2afc2516-0fce-41e0-b2ff-257fc7725cd8.png)
+
 Dado que no es posible soldar con estaño sobre aluminio, para poder conectar el cable coaxial que une la antena con la tinygs es necesario hacer las siguientes operaciones sobre los extremos del dipolo (para ello necesitaremos una Dremel):
 
 1 - corte longitudinal de 4 mm.
