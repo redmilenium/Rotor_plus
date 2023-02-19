@@ -147,10 +147,32 @@ La parte de 8 mm. va al Gearbox y la de 10 mm. a un eje de aluminio de 30 cm. de
 Dado que el acoplador dispone de una parte elastica, se va a comportar como un cardan y eliminará las ligeras faltas de alineacion que pueda haber entre el Gearbox y el mastil que gira sobre los 2 soporte puente.
 
 
+Funcionamiento
+
+El sistema se encuentra parado a la espera de que al TinyGS le indique a que satelite debe seguir.
+Una vez que la TinyGS le envia via peticion GET el nombre del satelite a seguir, el ESP32 del rotor entra en internet y se descarga los TLE actuales de dicho satelite y cuando se encuentre visible, comienza a seguirlo. 
+
+Cuando se encuentre no visible, es decir que la elevacion sea menor de 0 grados, dejará de seguirlo.
+
+Y asi a la espera de recibir de la TinyGS la orden de seguir a otro satelite.
+
+19/02/20232 He descubierto que al estar el ESP32 del rotor cerca de la antena interfiere, por la WIFI, en la señales que se reciben desde los satelites. 
+Mas en concreto de los satelites que envian alrededor de los 400 Mhz. 
+Lo he "solucionado" provisionalmente desactivando la WIFI cuando se esta haciendo el seguimiento de un satelite, y volviendola a activar cuando el satelite deja de
+estar visible.
+Durante el tiempo de silencio WIFI, no puedo acceder al ESP32 del rotor y no acepta comando GET para el seguimiento de otros satelites.
+Active la nueva funcionalidad sobre las 13:00 y se puede observar que la mejora es apreciable y el número de paquetes con CRC erroneo ha descendido.
+![image](https://user-images.githubusercontent.com/48222471/219946906-e9aa5649-f6fa-4b95-a99c-58052608c960.png)
+
+Ademas he separado mediante un coaxial de 3 metros la TinyGS de la antena, dejando solo la antena, el LNA y el filtro pasabanda. La TinyGS tambien emite WIFI y tambien 
+interfiere en la señales que se reciben de los satelites.
+
+En resumen, hay que dejar antena, LNA y filtros pasabanda solos y minimizar las emisiones de RF cercanas: parando la WIFI del ESP32 que controla el rotor y alejando la TinyGS.
 
 
 
-En breve ire subiendo mas información referente a materiales utilizados, soft.
+
+
 
 
 
