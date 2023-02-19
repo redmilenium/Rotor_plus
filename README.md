@@ -180,6 +180,10 @@ El rotor moverá los motores los grados que se le indiquen via LORA. El sistema 
 La TX de los grados a mover la va a hacer otra placa con ESP32 modulo LORA, tambien en 868 Mhz y a la menor potencia posible para que los comando no se pierdan.
 A esta placa le enviará la TinyGS el nombre del satelite a seguir.
 
+En breve abrire otro repositorio con la nueva solución.
+
+
+
 
 
 
