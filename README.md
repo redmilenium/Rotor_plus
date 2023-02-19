@@ -156,7 +156,7 @@ Cuando se encuentre no visible, es decir que la elevacion sea menor de 0 grados,
 
 Y asi a la espera de recibir de la TinyGS la orden de seguir a otro satelite.
 
-19/02/20232
+19/02/2023
 
 He descubierto que al estar el ESP32 del rotor cerca de la antena interfiere, por la WIFI, en la señales que se reciben desde los satelites. 
 Mas en concreto de los satelites que envian alrededor de los 400 Mhz (y que a día de hoy son un montón). 
