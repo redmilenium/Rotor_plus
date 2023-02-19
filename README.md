@@ -157,17 +157,25 @@ Cuando se encuentre no visible, es decir que la elevacion sea menor de 0 grados,
 Y asi a la espera de recibir de la TinyGS la orden de seguir a otro satelite.
 
 19/02/20232 He descubierto que al estar el ESP32 del rotor cerca de la antena interfiere, por la WIFI, en la señales que se reciben desde los satelites. 
-Mas en concreto de los satelites que envian alrededor de los 400 Mhz. 
+Mas en concreto de los satelites que envian alrededor de los 400 Mhz (y que a día de hoy son un montón). 
 Lo he "solucionado" provisionalmente desactivando la WIFI cuando se esta haciendo el seguimiento de un satelite, y volviendola a activar cuando el satelite deja de
 estar visible.
 Durante el tiempo de silencio WIFI, no puedo acceder al ESP32 del rotor y no acepta comando GET para el seguimiento de otros satelites.
-Active la nueva funcionalidad sobre las 13:00 y se puede observar que la mejora es apreciable y el número de paquetes con CRC erroneo ha descendido.
+Active la nueva funcionalidad sobre las 13:00 del día 18 (en estos momentos hace 24 horas de ello) y se puede observar que la mejora es apreciable y el número de paquetes con CRC erroneo ha descendido.
 ![image](https://user-images.githubusercontent.com/48222471/219946906-e9aa5649-f6fa-4b95-a99c-58052608c960.png)
 
 Ademas he separado mediante un coaxial de 3 metros la TinyGS de la antena, dejando solo la antena, el LNA y el filtro pasabanda. La TinyGS tambien emite WIFI y tambien 
 interfiere en la señales que se reciben de los satelites.
 
 En resumen, hay que dejar antena, LNA y filtros pasabanda solos y minimizar las emisiones de RF cercanas: parando la WIFI del ESP32 que controla el rotor y alejando la TinyGS.
+
+Como aunque funciona, me parece una ñapa, ya tengo diseñada una solución: voy a utilizar para el rotor una placa que ya tengo diseñada con ESP32, un modulo LORA y controladores de mpp tmc2209. El rotor moverá los motores los grados que se le indiquen via LORA. El sistema de rotor solo estará recibiendo LORA,en 868 Mhz.
+La TX de los grados a mover la va a hacer otra placa con ESP32 modulo LORA, tambien en 868 Mhz y a la menor potencia posible para que los comando no se pierdan.
+A esta placa le enviará la TinyGS el nombre del satelite a seguir.
+
+
+
+
 
 
 
